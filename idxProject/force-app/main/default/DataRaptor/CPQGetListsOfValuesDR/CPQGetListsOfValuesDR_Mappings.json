@@ -1,0 +1,48 @@
+[
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "options",
+        "%vlocity_namespace%__DomainObjectFieldType__c": "List<Map>",
+        "%vlocity_namespace%__GlobalKey__c": "c7065c06-67e0-6fc8-0ac3-7730b03668c4",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "CPQGetListsOfValuesDRCustoma0P4W00000u7Ig5UAEItem2",
+        "%vlocity_namespace%__OMplusSyncEnabled__c": true,
+        "%vlocity_namespace%__TransformValuesMap__c": "{\"value\":\"\"}",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "CPQGetListsOfValuesDR",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "options:label",
+        "%vlocity_namespace%__GlobalKey__c": "bdb60012-dff6-450d-7f50-6416f55abcb7",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "listvalues:fields:label",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "CPQGetListsOfValuesDRCustoma0P4W00000u7Ig5UAEItem0",
+        "%vlocity_namespace%__OMplusSyncEnabled__c": true,
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "CPQGetListsOfValuesDR",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "json",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "options:value",
+        "%vlocity_namespace%__GlobalKey__c": "a2ad9b69-7544-5669-e4b9-13a6a7e6f3f2",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "listvalues:fields:valuekey",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "CPQGetListsOfValuesDRCustoma0P4W00000u7Ig5UAEItem1",
+        "%vlocity_namespace%__OMplusSyncEnabled__c": true,
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "CPQGetListsOfValuesDR",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    }
+]
